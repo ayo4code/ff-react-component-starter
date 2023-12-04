@@ -2,8 +2,8 @@ const init = async (context, { generateFiles }) => {
   generateFiles([
     'example',
     'src',
-    '.eslintrc',
-    '.prettierrc',
+    '.eslintrc.js',
+    '.prettierrc.js',
     'README.md',
     'tsconfig.json',
     '.gitignore',
